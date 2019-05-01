@@ -1,0 +1,5 @@
+{
+  "event": ["view", "rate", "buy"],
+  "entityType": "user",
+  "targetEntityType": "product"
+}
